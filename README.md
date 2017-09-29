@@ -9,9 +9,9 @@ The project is an authentication system that validates user for accessing the sy
 Roles tend to be attached to identities, as you don't authenticate a role, but you authenticate an identity. You can authorize an identity, and you can authorize a role. 
 
 
-+-------+    +------+    +------+    +------------+
+
 | human |===>| User |===>| Role |===>| permission |
-+-------+    +------+    +------+    +------------+
+
 
 
 # Advantages
@@ -66,21 +66,21 @@ Roles tend to be attached to identities, as you don't authenticate a role, but y
 
 # How to run/deploy
 
-# Step1: Restore/run database script sql
+Step1: Restore/run database script sql
 
-# Step2: change database configuration at application.propertices file under resource file 
+ Step2: change database configuration at application.propertices file under resource file 
 
-# Right Click on Project -> Run As -> Maven Build...
+ Right Click on Project -> Run As -> Maven Build...
 
-# Add Goals: clean install. Click Apply and Run
+Add Goals: clean install. Click Apply and Run
 
-# Tomcat Server in Servers tab then follow steps to add Apache Tomcat to Eclipse.
+Tomcat Server in Servers tab then follow steps to add Apache Tomcat to Eclipse.
 
-# Deploy project to Apache Tomcat and start tomcat.
+ Deploy project to Apache Tomcat and start tomcat.
 
 # http://localhost:8080/SodingJavaAssignment/login
 
-----------------------Screens------------
+#----------------------Screens------------
 
 #Login screen
 
