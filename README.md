@@ -80,25 +80,25 @@ Tomcat Server in Servers tab then follow steps to add Apache Tomcat to Eclipse.
 
 # http://localhost:8080/SodingJavaAssignment/login
 
-#----------------------Screens------------
+# ----------------------Screens------------
 
-#Login screen
+Login screen
 
-#Login failed screen
+Login failed screen
 
-#Super Admin Dashboard screen
+Super Admin Dashboard screen
 
-#User Registration Form screen
+User Registration Form screen
 
-#Admin Dashboard screen
+Admin Dashboard screen
 
-#User Dashboard screen
+User Dashboard screen
 
-#Super Admin User screen
+Super Admin User screen
 
-#Anonymous User Dashboard screen
+Anonymous User Dashboard screen
 
-#Registration Form screen
+Registration Form screen
 
-#Logout screen
+Logout screen
  
